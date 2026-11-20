@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Mozi/Mozi.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="Mozi.Tests.Unit/Mozi.Tests.Unit.csproj" />
+  </Folder>
+</Solution>
